@@ -16,7 +16,7 @@ You should be able to progress past the sign in form when the code is fixed. Any
 The final view looks like the following. The Sign Out button should work upon completion and spit you back to the login page.
 
 <p align='center'>
-  <img src='./src/assets/success.png' width='750' height='500' />
+  <img src='./src/assets/success.png' width='750' height='450' />
 </p>
 
 React is easier to debug when you have a solid foundation in [HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/), [CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics). JSX is also important to learn. [JSX](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918#.ro3sx1ea0), an HTML/CSS/JavaScript purée, it not required in React applications but is considered an industry standard.
