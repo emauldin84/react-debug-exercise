@@ -1,6 +1,6 @@
 # React Debug Exercise
 
-The code in this app is intentionally broken and created in an older version of React
+The code in this app is intentionally broken and created in an older version of React to give you a sense of dealing with legacy code.
 
 Debugging is not only a great way to learn but it's also a valuable skill. Developers are frequently tasked with debugging code, and it's common for developers to debug code that was written by another team member (either past or present).
 
