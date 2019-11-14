@@ -30,7 +30,7 @@ This app includes a lint tool, so many errors will display in the Terminal app (
 Clone the repository, install dependencies, then start the development server (from the command line or Terminal app).
 
   ```
-    > git clone git@github.com:kristingreenslit/react-debug-exercise.git
+    > git clone git@github.com:emauldin84/react-debug-exercise.git
     > cd react-debug-exercise
     > npm install
     > npm start
